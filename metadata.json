@@ -1,0 +1,6 @@
+{
+  "name": "AI Studio React Starter",
+  "description": "A fully configured and optimized React template with Tailwind CSS, Lucide Icons, and Motion animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
